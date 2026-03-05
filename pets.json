@@ -1,0 +1,26 @@
+[
+    {
+        "name": "\u039b\u0399\u0396\u0391",
+        "age": 1,
+        "pet_type": "\u03a3\u039a\u03a5\u039b\u039f\u03a3",
+        "adopted": false
+    },
+    {
+        "name": "\u039c\u0399\u0396\u039f\u03a5",
+        "age": 2,
+        "pet_type": "\u0393\u0391\u03a4\u0391",
+        "adopted": false
+    },
+    {
+        "name": "\u039c\u0391\u039f \u039c\u0391\u039f",
+        "age": 4,
+        "pet_type": "\u0393\u0391\u03a4\u0391",
+        "adopted": false
+    },
+    {
+        "name": "\u03a1\u039f\u039a\u0399",
+        "age": 6,
+        "pet_type": "\u03a3\u039a\u03a5\u039b\u039f\u03a3",
+        "adopted": false
+    }
+]
