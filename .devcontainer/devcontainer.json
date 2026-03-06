@@ -1,0 +1,5 @@
+{
+  "name": "Pet Management System",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postStartCommand": "python main.py"
+}
