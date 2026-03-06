@@ -1,6 +1,12 @@
 # Pet Management System
 
 Ένα απλό πρόγραμμα γραμμής εντολών (CLI) σε Python για τη διαχείριση ζώων προς υιοθεσία σε ένα καταφύγιο.
+## Δοκίμασέ το άμεσα
+
+Τρέξε το project κατευθείαν στον browser χρησιμοποιώντας το GitHub Codespaces:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]
+(https://codespaces.new/riasantos97-py/pet-management-system)
 
 Το πρόγραμμα επιτρέπει στον χρήστη να:
 
@@ -135,3 +141,4 @@ if __name__ == "__main__":
 # Άδεια Χρήσης
 
 Το project δημιουργήθηκε για εκπαιδευτικούς σκοπούς.
+
