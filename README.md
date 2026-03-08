@@ -5,8 +5,7 @@
 
 Τρέξε το project κατευθείαν στον browser χρησιμοποιώντας το GitHub Codespaces και την εντολή "python main.py" στο terminal:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]
-(https://codespaces.new/riasantos97-py/pet-management-system)
+[![Run in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=riasanto97-py/pet-management-system)
 
 Το πρόγραμμα επιτρέπει στον χρήστη να:
 
@@ -141,5 +140,6 @@ if __name__ == "__main__":
 # Άδεια Χρήσης
 
 Το project δημιουργήθηκε για εκπαιδευτικούς σκοπούς.
+
 
 
